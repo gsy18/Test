@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
-// man.m@media.net
+
 public class Main {
 
     public static void main(String[] args) {
